@@ -1,30 +1,29 @@
-## Hi 👋 I'm Tamara.
+# Hi, this is Tamara.
 
-I'm a frontend engineer with 6+ years of experience building web and mobile applications. I enjoy working at the intersection of **design and engineering**, turning ideas into intuitive and interactive digital experiences.
+Frontend engineer based in Istanbul, Türkiye.
 
-### 🚀 What I build
-- Web applications with React, Next.js, and TypeScript
-- Cross-platform mobile experiences with React Native & Expo
-- Interactive interfaces, motion, and animations
-- Reusable components and scalable design systems
-- Data-rich dashboards and API-driven products
+I have 6+ years of experience building production web applications and cross-platform mobile products. My work spans frontend architecture, API integrations, mobile development, and interactive interfaces.
 
-### 🛠 Tech
-React · React Native · TypeScript · Next.js · GSAP · Tailwind CSS · HTML5 · CSS3 · REST APIs · SSR · CSR
+I'm particularly interested in the space between design and engineering — building products that are as thoughtful in their interactions as they are in their implementation.
+
+Most of my professional work lives in private and organisation repositories for [Algorand Foundation](https://github.com/algorandfoundation), [Hipo](https://github.com/Hipo), and [Bakers Studio](https://github.com/studiobakers), so my public GitHub only reflects a small part of what I've built over the years — mostly freelance projects and personal experiments.
+
 
 ## Now
 
-I'm currently based in Istanbul, Türkiye, building my personal projects and doing freelance work.
+I'm currently working on independent products and freelance projects, while exploring opportunities in frontend and product engineering.
 
-- I'm building **Classista**, a platform for discovering and booking classes and experiences, working across both mobile and web.
-- I'm exploring the intersection of **design and engineering**, with a particular interest in creative development, interactions, and motion.
-- I'm redesigning my [portfolio](https://www.tamaraelf.xyz/) and experimenting with new ways to bring ideas to life on the web.
-- I'm looking for my next opportunity as a **Frontend / Product Engineer**, ideally in a product-focused team where I can contribute to both design and development.
+Lately, I've been especially interested in creative development, design systems, and the details that make digital products feel intuitive and engaging.
 
-Last updated on November 16, 2026.
 
-*A now page is a snapshot of what I'm currently working on, learning, and thinking about, inspired by [nownownow.com](https://nownownow.com/about).* 
+[**Classista**](https://github.com/tatata96/classista-backend) — A platform for discovering and booking classes and experiences. Building the mobile application with React Native and Expo, alongside a NestJS backend.
 
-### 🔗 Find me
-- [LinkedIn](https://www.linkedin.com/in/tamara-kozok/)
-- [Website](https://www.tamaraelf.xyz/)
+[**Classista Brand Generator**](https://github.com/tatata96/classista-brand-generator) — A generative branding experiment exploring visual identities through code.
+
+[**Gallery Universe**](https://www.npmjs.com/package/gallery-universe) — An interactive 3D gallery experience built with Canvas, published as an npm package.
+
+*Updated November 2026.*
+
+## Elsewhere
+
+[Website](https://www.tamaraelf.xyz/) · [LinkedIn](https://www.linkedin.com/in/tamara-kozok/) · [Email](mailto:tamarakozok@gmail.com)
